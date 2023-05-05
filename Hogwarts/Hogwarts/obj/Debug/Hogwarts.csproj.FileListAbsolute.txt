@@ -1,0 +1,11 @@
+C:\Users\Ramiin\Desktop\P2\mini_project2_hogwarts-RaminAbedi\Hogwarts\Hogwarts\bin\Debug\Hogwarts.exe.config
+C:\Users\Ramiin\Desktop\P2\mini_project2_hogwarts-RaminAbedi\Hogwarts\Hogwarts\bin\Debug\Hogwarts.exe
+C:\Users\Ramiin\Desktop\P2\mini_project2_hogwarts-RaminAbedi\Hogwarts\Hogwarts\bin\Debug\Hogwarts.pdb
+C:\Users\Ramiin\Desktop\P2\mini_project2_hogwarts-RaminAbedi\Hogwarts\Hogwarts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ramiin\Desktop\P2\mini_project2_hogwarts-RaminAbedi\Hogwarts\Hogwarts\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ramiin\Desktop\P2\mini_project2_hogwarts-RaminAbedi\Hogwarts\Hogwarts\obj\Debug\Hogwarts.csproj.AssemblyReference.cache
+C:\Users\Ramiin\Desktop\P2\mini_project2_hogwarts-RaminAbedi\Hogwarts\Hogwarts\obj\Debug\Hogwarts.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ramiin\Desktop\P2\mini_project2_hogwarts-RaminAbedi\Hogwarts\Hogwarts\obj\Debug\Hogwarts.csproj.CoreCompileInputs.cache
+C:\Users\Ramiin\Desktop\P2\mini_project2_hogwarts-RaminAbedi\Hogwarts\Hogwarts\obj\Debug\Hogwarts.csproj.CopyComplete
+C:\Users\Ramiin\Desktop\P2\mini_project2_hogwarts-RaminAbedi\Hogwarts\Hogwarts\obj\Debug\Hogwarts.exe
+C:\Users\Ramiin\Desktop\P2\mini_project2_hogwarts-RaminAbedi\Hogwarts\Hogwarts\obj\Debug\Hogwarts.pdb
